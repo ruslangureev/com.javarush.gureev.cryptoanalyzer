@@ -6,7 +6,7 @@ public class CaesarCipher {
         System.out.println("Шифр Цезаря");
         System.out.println("Что будем делать?");
         System.out.println("1. Шифруем");
-        System.out.println("2. Деифруем");
+        System.out.println("2. Дешифруем");
         System.out.println("3. Взлом");
 
         Scanner console = new Scanner(System.in);
